@@ -1,10 +1,6 @@
 (function($) {
   'use strict';
   jQuery(document).on('ready', function(){
-    //Pre Loader
-    $(window).on('load',function(){
-      $(".loader-content").fadeOut(1000);
-    }) 
 
     // Mean Menu
     jQuery('.mean-menu').meanmenu({
