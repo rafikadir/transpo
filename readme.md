@@ -1,4 +1,4 @@
-## Transpo - Logistic HTML Website
+## Transpo - Logistic Service HTML Website
 ## Features:
 1. Modern and Clean Design
 2. 100% Responsive and clean code
